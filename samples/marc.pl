@@ -1,4 +1,5 @@
-#!/usr/bin/env perl
+#!/usr/bin/perl
+
 use MARC::Record;
 my $record = MARC::Record->new();
 
